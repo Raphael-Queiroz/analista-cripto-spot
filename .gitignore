@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+cripto/dados/*.json
+!cripto/dados/.gitkeep
+cripto/resultados/*.json
+cripto/resultados/run_stdout*.txt
+cripto/resultados/snapshot.json
+.DS_Store

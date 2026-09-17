@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "account": {
+    "free_usdt": null,
+    "reconciled_at": null,
+    "peak_equity": null,
+    "day_start_equity": null,
+    "week_start_equity": null,
+    "day_utc": null,
+    "iso_week": null
+  },
+  "events": []
+}
